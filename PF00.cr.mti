@@ -1,0 +1,78 @@
+{C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/ALU.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+** Warning: C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/ALU.v(50): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/ALU.v(61): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/ALU.v(71): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/ALU.v(81): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/ALU.v(92): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/ALU.v(102): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/ALU.v(121): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/ALU.v(122): (vlog-2284) Empty $unit scope found.
+-- Compiling package ALU_v_unit
+-- Compiling module M_AND32B_COMP
+-- Compiling module M_OR32B_COMP
+-- Compiling module M_SLT32B_COMP
+-- Compiling module M_SUM32B_COMP
+-- Compiling module M_R32B_COMP
+-- Compiling module M_MUX5A1
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/DPTR.v} {1 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/DPTR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DPTR
+
+Top level modules:
+	DPTR
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/ALuControl.v} {1 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/ALuControl.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALuControl
+
+Top level modules:
+	ALuControl
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/TB_DPTR.v} {1 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/TB_DPTR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_DPTR
+
+Top level modules:
+	TB_DPTR
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/MEM.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/MEM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MEM
+** Warning: C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/MEM.v(27): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/MEM.v(27): (vlog-2284) Empty $unit scope found.
+-- Compiling package MEM_v_unit
+
+Top level modules:
+	MEM
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/BR.v} {1 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/BR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BR
+
+Top level modules:
+	BR
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/MUX2_1.v} {1 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/MUX2_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MUX2_1
+
+Top level modules:
+	MUX2_1
+
+} {} {}} {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/UC.v} {2 {vlog -work work -stats=none {C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/UC.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module UC
+** Warning: C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/UC.v(33): (vlog-2283) Extra semicolon in $unit (global) scope.
+** Warning: C:/Users/nesto/Documents/Documentos uni/Arquitectura de computadoras/Actividad Final Tipo R/UC.v(33): (vlog-2284) Empty $unit scope found.
+-- Compiling package UC_v_unit
+
+Top level modules:
+	UC
+
+} {} {}}
